@@ -1,1 +1,1 @@
-# Flashino-website
+flashino.online
